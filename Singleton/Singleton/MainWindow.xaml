@@ -1,0 +1,21 @@
+﻿<Window x:Class="Singleton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Singleton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="183,134,0,0" TextWrapping="Wrap" Name="Jmeno"  VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="441,134,0,0" TextWrapping="Wrap" Name="Prijmeni" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="183,229,0,0" TextWrapping="Wrap" Name="DOB" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="441,229,0,0" TextWrapping="Wrap" Name="ROD" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Jméno" HorizontalAlignment="Left" Margin="183,103,0,0" VerticalAlignment="Top"/>
+        <Label Content="Příjmení" HorizontalAlignment="Left" Margin="441,103,0,0" VerticalAlignment="Top" RenderTransformOrigin="6.79,0.561"/>
+        <Label  Content="Datum narození ve formátu dd/mm/yyyy" HorizontalAlignment="Left" Margin="183,198,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.524,5.02"/>
+        <Label Content="Rodné číslo ve formátu xxxxxx/xxxx" HorizontalAlignment="Left" Margin="441,198,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.524,5.02"/>
+        <Button Content="Pošli data" HorizontalAlignment="Left" Margin="333,318,0,0" VerticalAlignment="Top" Width="75" Height="27" Click="Button_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Tomáš\source\repos\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Tomáš\source\repos\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\Tomáš\source\repos\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\MainWindow.g.cs
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\App.g.cs
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\Singleton_MarkupCompile.cache
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\Singleton_MarkupCompile.lref
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\MainWindow.baml
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\Singleton.g.resources
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\Singleton.csproj.GenerateResource.cache
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\Tomáš\source\repos\Singleton\Singleton\obj\Debug\Singleton.pdb
